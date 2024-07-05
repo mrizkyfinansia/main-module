@@ -1,3 +1,6 @@
 [submodule "flutter-dsl"]
 	path = flutter-dsl
 	url = git@github.com:KB-FMF/flutter-dsl.git
+[submodule "coordinator-alternative-playground"]
+	path = coordinator-alternative-playground
+	url = https://github.com/mrizkyfinansia/coordinator-alternative-playground.git
